@@ -1,0 +1,104 @@
+2024-09-22 18:36:06,904 - root - INFO - Логирование настроено успешно.
+2024-09-22 18:36:06,904 - root - INFO - Запуск бота...
+2024-09-22 18:36:06,921 - root - INFO - Приложение Telegram бота создано.
+2024-09-22 18:36:06,921 - root - INFO - Обработчик команды /start добавлен.
+2024-09-22 18:36:06,921 - root - INFO - Обработчик диалога покупки добавлен.
+2024-09-22 18:36:06,921 - root - INFO - Обработчик диалога помощи добавлен.
+2024-09-22 18:36:06,922 - root - INFO - Обработчик QR-кода добавлен.
+2024-09-22 18:36:06,932 - root - INFO - Обработчик команды /make_backup добавлен.
+2024-09-22 18:36:06,932 - root - INFO - Обработчик ошибок добавлен.
+2024-09-22 18:36:07,143 - telegram.ext.Application - INFO - Application started
+2024-09-22 18:36:07,278 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:36:07,279 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 1
+2024-09-22 18:38:33,318 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:38:33,318 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 123
+2024-09-22 18:38:51,533 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:38:51,533 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad1
+2024-09-22 18:39:34,530 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:39:45,257 - root - INFO - Пользователь Sergey_robots начал диалог покупки.
+2024-09-22 18:39:45,258 - root - INFO - Загружено 7 заказов из orders.txt.
+2024-09-22 18:39:45,259 - root - INFO - Созданы данные заказа 8.
+2024-09-22 18:39:45,259 - root - INFO - Сохранено 8 заказов в orders.txt.
+2024-09-22 18:39:45,260 - root - INFO - Заказ 8 инициализирован и добавлен в список заказов.
+2024-09-22 18:39:45,461 - root - INFO - Заказ инициализирован успешно.
+2024-09-22 18:39:50,656 - root - INFO - Step 0, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-22 18:39:50,656 - root - INFO - Имя пользователя сохранено: 123
+2024-09-22 18:39:51,587 - root - INFO - Step 1, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-22 18:39:51,588 - root - INFO - Дата сохранена: 123
+2024-09-22 18:39:53,719 - root - INFO - Step 2, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-22 18:39:53,719 - root - INFO - Контакт сохранен: 123
+2024-09-22 18:39:55,755 - root - INFO - Step 3, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-22 18:39:55,755 - root - INFO - Аэропорт сохранен: 123
+2024-09-22 18:39:55,766 - root - INFO - Данные заказа 8 сохранены в orders\Order8\order_8_data.json.
+2024-09-22 18:39:55,766 - root - INFO - Данные заказа 8 сохранены.
+2024-09-22 18:39:55,767 - root - INFO - Данные заказа 8 загружены для отправки.
+2024-09-22 18:39:55,952 - root - INFO - Детали заказа 8 отправлены в чат -1002452328851.
+2024-09-22 18:39:56,125 - root - INFO - Дополнительная информация о пользователе отправлена в чат -1002452328851.
+2024-09-22 18:39:56,125 - root - INFO - Детали заказа 8 отправлены в ORDER_CHAT_ID.
+2024-09-22 18:39:56,694 - root - INFO - Инструкция по установке отправлена пользователю.
+2024-09-22 18:39:57,073 - root - INFO - Инструкция по скриншоту отправлена пользователю.
+2024-09-22 18:43:50,114 - root - WARNING - Пользователь не отправил фото.
+2024-09-22 18:44:06,742 - root - INFO - Остановка процесса для пользователя Sergey_robots, UserID 464483163
+2024-09-22 18:44:52,762 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:44:52,762 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-22 18:51:00,560 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:51:00,560 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-22 18:51:13,131 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:51:13,131 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-22 18:52:20,318 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:52:20,319 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-22 18:52:50,399 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 18:52:50,399 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-22 19:01:02,192 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-22 19:01:02,193 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-23 01:12:08,060 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-23 01:12:09,113 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-23 10:06:40,993 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-23 10:06:40,994 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-23 10:06:58,451 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-23 10:06:58,452 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-23 10:06:58,454 - root - INFO - Бот запущен и работает в режиме polling.

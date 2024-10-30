@@ -1,0 +1,936 @@
+2024-09-23 19:03:52,834 - root - INFO - Логирование настроено успешно.
+2024-09-23 19:03:52,834 - root - INFO - Запуск бота...
+2024-09-23 19:03:52,850 - root - INFO - Приложение Telegram бота создано.
+2024-09-23 19:03:52,852 - root - INFO - Обработчик команды /start добавлен.
+2024-09-23 19:03:52,852 - root - INFO - Обработчик диалога покупки добавлен.
+2024-09-23 19:03:52,852 - root - INFO - Обработчик диалога помощи добавлен.
+2024-09-23 19:03:52,852 - root - INFO - Обработчик QR-кода добавлен.
+2024-09-23 19:03:52,853 - root - INFO - Обработчик команды /make_backup добавлен.
+2024-09-23 19:03:52,853 - root - INFO - Обработчик ошибок добавлен.
+2024-09-23 19:03:53,029 - telegram.ext.Application - INFO - Application started
+2024-09-23 19:03:57,060 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-23 19:03:57,062 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: ad333
+2024-09-23 19:32:42,908 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-23 19:32:42,908 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 1
+2024-09-23 19:34:31,598 - root - INFO - Пользователь mariatau, UserID 414585017 вызвал команду /start.
+2024-09-23 19:34:31,598 - root - INFO - Пользователь mariatau, UserID 414585017 пришел по рекламной кампании: 1
+2024-09-23 19:34:37,310 - root - INFO - Пользователь mariatau начал диалог покупки.
+2024-09-23 19:34:37,311 - root - INFO - Загружено 10 заказов из orders.txt.
+2024-09-23 19:34:37,311 - root - INFO - Созданы данные заказа 11.
+2024-09-23 19:34:37,312 - root - INFO - Сохранено 11 заказов в orders.txt.
+2024-09-23 19:34:37,312 - root - INFO - Заказ 11 инициализирован и добавлен в список заказов.
+2024-09-23 19:34:37,550 - root - INFO - Заказ инициализирован успешно.
+2024-09-23 19:34:47,711 - root - INFO - Step 0, User mariatau, UserID 414585017, entered: Пипа пупа
+2024-09-23 19:34:47,712 - root - INFO - Имя пользователя сохранено: Пипа пупа
+2024-09-23 19:34:51,885 - root - INFO - Step 1, User mariatau, UserID 414585017, entered: Лила Лула
+2024-09-23 19:34:51,886 - root - INFO - Дата сохранена: Лила Лула
+2024-09-23 19:34:55,586 - root - INFO - Step 2, User mariatau, UserID 414585017, entered: Пик пик к
+2024-09-23 19:34:55,586 - root - INFO - Контакт сохранен: Пик пик к
+2024-09-23 19:34:58,576 - root - INFO - Step 3, User mariatau, UserID 414585017, entered: Дует
+2024-09-23 19:34:58,577 - root - INFO - Аэропорт сохранен: Дует
+2024-09-23 19:34:58,578 - root - INFO - Данные заказа 11 сохранены в orders\Order11\order_11_data.json.
+2024-09-23 19:34:58,578 - root - INFO - Данные заказа 11 сохранены.
+2024-09-23 19:34:58,586 - root - INFO - Данные заказа 11 загружены для отправки.
+2024-09-23 19:34:58,675 - root - INFO - Детали заказа 11 отправлены в чат -1002452328851.
+2024-09-23 19:34:58,780 - root - INFO - Дополнительная информация о пользователе отправлена в чат -1002452328851.
+2024-09-23 19:34:58,780 - root - INFO - Детали заказа 11 отправлены в ORDER_CHAT_ID.
+2024-09-23 19:34:59,278 - root - INFO - Инструкция по установке отправлена пользователю.
+2024-09-23 19:34:59,634 - root - INFO - Инструкция по скриншоту отправлена пользователю.
+2024-09-23 19:35:15,784 - root - INFO - Step 4, User mariatau, UserID 414585017, entered: None
+2024-09-23 19:35:16,192 - root - INFO - Фото сохранено: orders\Order11\photo_step5_1.jpg
+2024-09-23 19:35:16,635 - root - INFO - Фото orders\Order11\photo_step5_1.jpg отправлено в чат -1002452328851 с подписью 'Бизнес зал заказа номер 11'.
+2024-09-23 19:35:16,635 - root - INFO - Фото этапа 5 заказа 11 отправлено в ORDER_CHAT_ID.
+2024-09-23 19:35:16,636 - root - INFO - Фото этапа 5 для заказа 11 сохранено и отправлено.
+2024-09-23 19:35:16,763 - root - INFO - Пользователю отправлено подтверждение о сохранении заказа 11.
+2024-09-23 19:35:32,281 - root - INFO - Фото сохранено: orders\Order11\photo_step6_2.jpg
+2024-09-23 19:35:32,563 - root - INFO - Фото orders\Order11\photo_step6_2.jpg отправлено в чат -1002452328851 с подписью 'Оплата заказа номер 11'.
+2024-09-23 19:35:32,563 - root - INFO - Фото этапа 6 заказа 11 отправлено в ORDER_CHAT_ID.
+2024-09-23 19:35:32,563 - root - INFO - Фото этапа 6 для заказа 11 сохранено и отправлено.
+2024-09-23 19:35:32,661 - root - INFO - Пользователю отправлено подтверждение о принятии заказа 11.
+2024-09-23 19:35:32,662 - root - INFO - Запланирована отправка заказа 11 в PRODUCTION_CHAT_ID через 3 минуты.
+2024-09-23 19:35:33,664 - root - INFO - Данные заказа 11 загружены для отправки.
+2024-09-23 19:35:33,749 - root - INFO - Детали заказа 11 отправлены в чат -4575086244.
+2024-09-23 19:35:33,750 - root - INFO - Детали заказа 11 отправлены в PRODUCTION_CHAT_ID.
+2024-09-23 19:35:33,892 - root - INFO - Фото orders\Order11\photo_step5_1.jpg отправлено в чат -4575086244 с подписью 'Бизнес зал заказа номер 11'.
+2024-09-23 19:35:33,893 - root - INFO - Фото заказа 11 отправлено в PRODUCTION_CHAT_ID.
+2024-09-23 19:35:52,218 - root - INFO - Обработка полученного QR-кода.
+2024-09-23 19:35:52,223 - root - INFO - Загружено 11 заказов из orders.txt.
+2024-09-23 19:35:52,667 - root - INFO - Фото сохранено: orders\Order11\photo_step_qrcode.jpg
+2024-09-23 19:35:52,757 - root - INFO - Заказ 11 найден и обработан.
+2024-09-23 19:35:53,080 - root - INFO - Фото orders\Order11\photo_step_qrcode.jpg отправлено в чат 414585017 с подписью 'Вот ваш QR-код для заказа №11.'.
+2024-09-23 19:35:53,080 - root - INFO - QR-код для заказа 11 отправлен пользователю.
+2024-09-23 19:35:53,299 - root - INFO - Фото orders\Order11\photo_step_qrcode.jpg отправлено в чат -1002452328851 с подписью 'QR-код для заказа номер 11'.
+2024-09-23 19:35:53,300 - root - INFO - QR-код для заказа 11 отправлен в ORDER_CHAT_ID.
+2024-09-23 19:35:53,411 - root - INFO - Пользователю отправлено благодарственное сообщение.
+2024-09-23 19:36:24,696 - root - INFO - Пользователь Sergey_robots начал диалог покупки.
+2024-09-23 19:36:24,697 - root - INFO - Загружено 11 заказов из orders.txt.
+2024-09-23 19:36:24,697 - root - INFO - Созданы данные заказа 12.
+2024-09-23 19:36:24,698 - root - INFO - Сохранено 12 заказов в orders.txt.
+2024-09-23 19:36:24,698 - root - INFO - Заказ 12 инициализирован и добавлен в список заказов.
+2024-09-23 19:36:24,911 - root - INFO - Заказ инициализирован успешно.
+2024-09-23 19:36:26,205 - root - INFO - Step 0, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-23 19:36:26,205 - root - INFO - Имя пользователя сохранено: 123
+2024-09-23 19:36:26,547 - root - INFO - Step 1, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-23 19:36:26,547 - root - INFO - Дата сохранена: 123
+2024-09-23 19:36:26,912 - root - INFO - Step 2, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-23 19:36:26,913 - root - INFO - Контакт сохранен: 123
+2024-09-23 19:36:27,255 - root - INFO - Step 3, User Sergey_robots, UserID 464483163, entered: 123
+2024-09-23 19:36:27,255 - root - INFO - Аэропорт сохранен: 123
+2024-09-23 19:36:27,256 - root - INFO - Данные заказа 12 сохранены в orders\Order12\order_12_data.json.
+2024-09-23 19:36:27,257 - root - INFO - Данные заказа 12 сохранены.
+2024-09-23 19:36:27,267 - root - INFO - Данные заказа 12 загружены для отправки.
+2024-09-23 19:36:27,381 - root - INFO - Детали заказа 12 отправлены в чат -1002452328851.
+2024-09-23 19:36:27,475 - root - INFO - Дополнительная информация о пользователе отправлена в чат -1002452328851.
+2024-09-23 19:36:27,475 - root - INFO - Детали заказа 12 отправлены в ORDER_CHAT_ID.
+2024-09-23 19:36:27,967 - root - INFO - Инструкция по установке отправлена пользователю.
+2024-09-23 19:36:28,315 - root - INFO - Инструкция по скриншоту отправлена пользователю.
+2024-09-23 19:36:42,163 - root - INFO - Step 4, User Sergey_robots, UserID 464483163, entered: None
+2024-09-23 19:36:42,413 - root - INFO - Фото сохранено: orders\Order12\photo_step5_1.jpg
+2024-09-23 19:36:42,601 - root - INFO - Фото orders\Order12\photo_step5_1.jpg отправлено в чат -1002452328851 с подписью 'Бизнес зал заказа номер 12'.
+2024-09-23 19:36:42,601 - root - INFO - Фото этапа 5 заказа 12 отправлено в ORDER_CHAT_ID.
+2024-09-23 19:36:42,602 - root - INFO - Фото этапа 5 для заказа 12 сохранено и отправлено.
+2024-09-23 19:36:42,685 - root - INFO - Пользователю отправлено подтверждение о сохранении заказа 12.
+2024-09-23 19:36:56,430 - root - INFO - Фото сохранено: orders\Order12\photo_step6_2.jpg
+2024-09-23 19:36:56,690 - root - INFO - Фото orders\Order12\photo_step6_2.jpg отправлено в чат -1002452328851 с подписью 'Оплата заказа номер 12'.
+2024-09-23 19:36:56,691 - root - INFO - Фото этапа 6 заказа 12 отправлено в ORDER_CHAT_ID.
+2024-09-23 19:36:56,691 - root - INFO - Фото этапа 6 для заказа 12 сохранено и отправлено.
+2024-09-23 19:36:56,872 - root - INFO - Пользователю отправлено подтверждение о принятии заказа 12.
+2024-09-23 19:36:56,873 - root - INFO - Запланирована отправка заказа 12 в PRODUCTION_CHAT_ID через 3 минуты.
+2024-09-23 19:36:57,884 - root - INFO - Данные заказа 12 загружены для отправки.
+2024-09-23 19:36:58,035 - root - INFO - Детали заказа 12 отправлены в чат -4575086244.
+2024-09-23 19:36:58,035 - root - INFO - Детали заказа 12 отправлены в PRODUCTION_CHAT_ID.
+2024-09-23 19:36:58,203 - root - INFO - Фото orders\Order12\photo_step5_1.jpg отправлено в чат -4575086244 с подписью 'Бизнес зал заказа номер 12'.
+2024-09-23 19:36:58,204 - root - INFO - Фото заказа 12 отправлено в PRODUCTION_CHAT_ID.
+2024-09-23 19:37:16,041 - root - INFO - Обработка полученного QR-кода.
+2024-09-23 19:37:16,052 - root - INFO - Загружено 12 заказов из orders.txt.
+2024-09-23 19:37:16,439 - root - INFO - Фото сохранено: orders\Order12\photo_step_qrcode.jpg
+2024-09-23 19:37:16,562 - root - INFO - Заказ 12 найден и обработан.
+2024-09-23 19:37:16,878 - root - INFO - Фото orders\Order12\photo_step_qrcode.jpg отправлено в чат 464483163 с подписью 'Вот ваш QR-код для заказа №12.'.
+2024-09-23 19:37:16,879 - root - INFO - QR-код для заказа 12 отправлен пользователю.
+2024-09-23 19:37:17,106 - root - INFO - Фото orders\Order12\photo_step_qrcode.jpg отправлено в чат -1002452328851 с подписью 'QR-код для заказа номер 12'.
+2024-09-23 19:37:17,106 - root - INFO - QR-код для заказа 12 отправлен в ORDER_CHAT_ID.
+2024-09-23 19:37:17,183 - root - INFO - Пользователю отправлено благодарственное сообщение.
+2024-09-23 19:41:45,793 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-23 19:41:45,793 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 1
+2024-09-24 01:12:07,092 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-24 01:12:08,167 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-24 07:00:15,644 - root - INFO - Отправлено сообщение о начале бекапа файлов.
+2024-09-24 07:00:15,663 - root - INFO - Последний лог-файл: 2024-09-23_19-03-52.log
+2024-09-24 07:00:16,265 - root - INFO - Лог-файл 2024-09-23_19-03-52.log отправлен в ORDER_CHAT_ID.
+2024-09-24 07:00:16,745 - root - INFO - Файл orders.txt отправлен в ORDER_CHAT_ID.
+2024-09-24 07:14:49,069 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-24 07:15:04,592 - root - INFO - Пользователь Sergey_robots начал диалог покупки.
+2024-09-24 07:15:04,593 - root - INFO - Загружено 12 заказов из orders.txt.
+2024-09-24 07:15:04,593 - root - INFO - Созданы данные заказа 13.
+2024-09-24 07:15:04,596 - root - INFO - Сохранено 13 заказов в orders.txt.
+2024-09-24 07:15:04,597 - root - INFO - Заказ 13 инициализирован и добавлен в список заказов.
+2024-09-24 07:15:04,793 - root - INFO - Заказ инициализирован успешно.
+2024-09-24 07:15:58,181 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-24 07:15:58,181 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 1
+2024-09-24 12:17:17,812 - root - INFO - Пользователь Sergey_robots, UserID 464483163 вызвал команду /start.
+2024-09-24 12:17:17,814 - root - INFO - Пользователь Sergey_robots, UserID 464483163 пришел по рекламной кампании: 3
+2024-09-25 01:11:46,229 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-25 01:11:47,289 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-26 01:11:56,721 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-26 01:11:57,779 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-27 01:11:54,843 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-09-27 01:12:01,474 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-28 01:11:53,419 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-28 01:11:54,464 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-28 08:35:24,650 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 72, in map_httpcore_exceptions
+    yield
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 377, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 143, in handle_async_request
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 113, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 186, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 224, in _receive_event
+    data = await self._network_stream.read(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 292, in do_request
+    res = await self._client.request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1585, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1674, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1702, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1739, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1776, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 376, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 89, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 333, in _request_wrapper
+    code, payload = await self.do_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 316, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2024-09-29 01:12:12,713 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-09-29 01:12:19,237 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-09-30 01:11:50,630 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-10-01 01:11:35,573 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-10-01 01:11:41,978 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-02 01:11:56,054 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-10-03 01:11:42,601 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-10-03 01:11:49,520 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-04 01:11:50,461 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-04 01:11:51,516 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-05 01:11:45,175 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-05 01:11:46,241 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-06 01:11:54,425 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-06 01:11:55,477 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-07 01:11:45,507 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-07 01:11:46,568 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-08 01:11:37,869 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 5 seconds
+2024-10-08 01:11:43,540 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-09 01:11:42,508 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-09 01:11:43,553 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-09 14:43:50,564 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 72, in map_httpcore_exceptions
+    yield
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 377, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 143, in handle_async_request
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 113, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 186, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 224, in _receive_event
+    data = await self._network_stream.read(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 292, in do_request
+    res = await self._client.request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1585, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1674, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1702, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1739, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1776, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 376, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 89, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 333, in _request_wrapper
+    code, payload = await self.do_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 316, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2024-10-10 01:12:42,407 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-10 01:12:43,458 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 386, in _request_wrapper
+    raise NetworkError(description or "Bad Gateway")
+telegram.error.NetworkError: Bad Gateway
+2024-10-10 03:03:37,447 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 72, in map_httpcore_exceptions
+    yield
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 377, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    return await self._connection.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 143, in handle_async_request
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 113, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 186, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpcore\_async\http11.py", line 238, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 292, in do_request
+    res = await self._client.request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1585, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1674, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1702, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1739, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_client.py", line 1776, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 376, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\httpx\_transports\default.py", line 89, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 753, in _network_loop_retry
+    if not await do_action():
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 747, in do_action
+    return action_cb_task.result()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 377, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 649, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 4366, in get_updates
+    await self._post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 623, in _post
+    return await self._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 355, in _do_post
+    return await super()._do_post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 652, in _do_post
+    result = await request.post(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 201, in post
+    result = await self._request_wrapper(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 333, in _request_wrapper
+    code, payload = await self.do_request(
+  File "C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_httpxrequest.py", line 316, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.RemoteProtocolError: Server disconnected without sending a response.
